@@ -3,8 +3,9 @@
 
 
 <!-- title -->
-# :milky_way: Welcome to my GitHub profile :milky_way:
-
+<h1 align="center">
+    :milky_way: Welcome to my GitHub profile :milky_way:
+</h1>
 
 <!-- Info -->
 <p>
