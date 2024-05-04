@@ -1,3 +1,7 @@
+<!-- viwers -->
+![Visitors](https://komarev.com/ghpvc/?username=norma2627&color=orange)
+
+
 <!-- title -->
 <div align="center">
   <img src="./assets/welcome.gif" alt="welcome to my github profile">
@@ -5,14 +9,6 @@
   <br>
 </div>
 
-
-<!-- viwers -->
-![Visitors](https://komarev.com/ghpvc/?username=norma2627&color=orange)
-
-<!-- Intro -->
-<h1 align="center">
-    WELCOME TO MY GITHUB PROFILE
-</h1>
 
 <!-- Info -->
 <p>
