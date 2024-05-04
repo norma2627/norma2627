@@ -3,11 +3,7 @@
 
 
 <!-- title -->
-<div align="center">
-  <img src="./assets/welcome.gif" alt="welcome to my github profile">
-  <br>
-  <br>
-</div>
+# :milky_way: Welcome to my GitHub profile :milky_way:
 
 
 <!-- Info -->
