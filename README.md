@@ -4,7 +4,7 @@
 
 <!-- title -->
 <h1 align="center">
-    :milky_way: Welcome to my GitHub profile :milky_way:
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
 </h1>
 
 <!-- Info -->
